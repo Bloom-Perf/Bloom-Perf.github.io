@@ -1,0 +1,16 @@
+# Authors
+
+jra:
+  name: "Jérôme Ramette"
+  bio: "IT consultant"
+  avatar: "assets/images/jra-photo.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jerome.ramette@qosguard.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.qosguard.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jramette"
