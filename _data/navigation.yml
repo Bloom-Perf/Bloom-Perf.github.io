@@ -1,8 +1,8 @@
 main:
-  - title: "About us"
-    url: /about/
   - title: "Tools"
     url: /tools/
+  - title: "About us"
+    url: /about/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
