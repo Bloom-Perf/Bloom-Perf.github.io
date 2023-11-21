@@ -59,19 +59,19 @@ reCaptcha:
 atom_feed:
   path: # blank (default) uses feed.xml
   hide: # true, false (default)
-search: # true, false (default)
-search_full_content: # true, false (default)
-search_provider: # lunr (default), algolia, google
-lunr:
-  search_within_pages: # true, false (default)
+  
+search                : true # true, false (default)
+search_full_content   : true # true, false (default)
+search_provider       : algolia # lunr (default), algolia, google
 algolia:
-  application_id: # YOUR_APPLICATION_ID
-  index_name: # YOUR_INDEX_NAME
-  search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
-  powered_by: # true (default), false
+  application_id      : C18DRWI8GC
+  index_name          : bloom_perf
+  search_only_api_key : c98a7ffabaaaa887b347ed1a4889c85d
+  powered_by          : true # true (default), false
 google:
   search_engine_id: # YOUR_SEARCH_ENGINE_ID
   instant_search: # false (default), true
+  
 # SEO Related
 google_site_verification: "ZRLZ8Bjn6P0VwGyfXgklN1EF0rTz6iKxKz3h9zKNVhw"
 bing_site_verification:
