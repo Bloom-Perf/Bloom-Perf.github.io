@@ -4,6 +4,7 @@ permalink: /tools/yaml-ppt/
 title: "YAML Puppeteer"
 excerpt: "A scenario oriented API to control a browser with puppeteer."
 author_profile: true
+classes: wide
 ---
 
 Project available on Github [YAML Puppeteer repository][yaml-pptr-repository].

@@ -4,6 +4,7 @@ permalink: /tools/
 title: "Bloom Perf Tools"
 excerpt: "List of Bloom Perf's Tools."
 author_profile: true
+classes: wide
 ---
 
 Welcome to the heart of the **Bloom Perf project** - our Tools page. Here you'll find a list of tools that we've meticulously and lovingly developed :two_hearts:. Each tool is designed to streamline and enhance your performance testing experience, bringing both simplicity and efficiency to your workflow (we're not quite there yet, but we're working hard to get there :sweat_smile:).

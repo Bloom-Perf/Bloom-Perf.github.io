@@ -2,6 +2,7 @@
 layout: single
 permalink: /about/
 title: "About us"
+classes: wide
 ---
 
 

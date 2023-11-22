@@ -8,6 +8,7 @@ tags:
   - Bloom Perf Project
   - performance
   - traffic simulation
+classes: wide
 ---
 
 Project available on Github [Kyara repository][kyara-repository].
