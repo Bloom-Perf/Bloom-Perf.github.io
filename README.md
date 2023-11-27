@@ -18,3 +18,10 @@ To update the site's indexing, simply execute the following command line at the 
 ````bash
 ALGOLIA_API_KEY='admin_api_key' bundle exec jekyll algolia
 ````
+
+## SEO Tags
+
+By default, SEO tags are not managed by Minimal Mistakes template. So, we use [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) to handle metadata SEO Tags for Google search engines.
+
+Just follow instructions belows, and you're ready to go:
+  - How to install Jekyll SEO Tag : [jekyll-seo-tag installation guide](https://github.com/jekyll/jekyll-seo-tag/blob/f449b1af64cbaf9080e7a3c677090cfe6e8f0021/docs/installation.md).
